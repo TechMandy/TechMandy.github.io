@@ -2,7 +2,7 @@
 ## Course Project - Developing Data Products
 
 ========================================================================================
-Guess The Number! Shiny Project and its Slidify Pitch Presentation
+## Guess The Number! Shiny Project and its Slidify Pitch Presentation
 ========================================================================================
 
 Description:
