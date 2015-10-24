@@ -1,9 +1,9 @@
 # Shiny_App_And_Reproducible_Pitch
 ## Course Project - Developing Data Products
 
-========================================================================================
+----------------------------------------------------------------------------------------
 ## Guess The Number! Shiny Project and its Slidify Pitch Presentation
-========================================================================================
+----------------------------------------------------------------------------------------
 
 Description:
 Guess The Number! - The actual Shiny app files are in this directory
