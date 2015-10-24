@@ -1,5 +1,5 @@
 # Shiny_App_And_Reproducible_Pitch
-# Course Project - Developing Data Products
+## Course Project - Developing Data Products
 
 ========================================================================================
 Guess The Number! Shiny Project and its Slidify Pitch Presentation
