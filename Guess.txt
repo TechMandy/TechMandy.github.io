@@ -1,0 +1,4 @@
+name: GuessTheNumber
++account: TechMandy
++bundleId: 65682
++url: https://techmandy.shinyapps.io/Guess_The_Number
